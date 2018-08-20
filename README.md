@@ -1,2 +1,2 @@
-# didactic-bassoon
+# hello-world
 Hello World Guide
